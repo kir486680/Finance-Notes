@@ -1,0 +1,3 @@
+
+Annual Recurring Revenue, or ARR, is a metric that shows the money that comes in every year for the life of a subscription (or contract). More specifically, ARR is the value of the recurring revenue of a business’s term subscriptions normalized for a single calendar year.
+For example, if your subscriber purchases a two-year subscription for $12,000, the ARR would be $6,000 for each year. ARR is predictable revenue that can be counted on every year.

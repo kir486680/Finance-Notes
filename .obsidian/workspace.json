@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "7b24188828fddf22",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a9762512152e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fe06d1bf674e9c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annual Reccuring Revenue(ARR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d50d5e2beb8702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capital Expenditure (CapEx).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c7de45b7f7c5d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capital Expenditure (CapEx).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfbcb70e110e794c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seed Round.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ea2850170717b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93bcd33943087ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series B.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5ddb9c866ae4f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfdd1bf392211e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investment Stages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32bf1a77ee069c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a50388232359a700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Expenditure (OpEx).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11225673de51614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly Recurring Revenue (MRR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7e7a6a165a5b55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly Recurring Revenue (MRR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "348aee8c3c04d372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEVERAGE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d05c16aa346cbe67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pitch Deck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c348fa738eb3fc5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e666af13e4ce2863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "476f3bb413a4ce46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "698c1a4a42ffe676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8dec6e0adc6fe29",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b522b17da78aca5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a6f2c67c452e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb33351c3017cb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pitch Deck.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b11e0c4e15f845f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pitch Deck.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73f8fc2968d80cc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0a7aecb6af60e16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pitch Deck.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d05c16aa346cbe67",
+  "lastOpenFiles": [
+    "LEVERAGE.md",
+    "Monthly Recurring Revenue (MRR).md",
+    "Annual Reccuring Revenue(ARR).md",
+    "Average Revenue Per User (ARPU).md",
+    "Operating Expenditure (OpEx).md",
+    "Seed Round.md",
+    "PPE.md",
+    "Series C.md",
+    "Series B.md",
+    "Capital Expenditure (CapEx).md"
+  ]
+}

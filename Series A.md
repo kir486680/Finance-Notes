@@ -1,0 +1,2 @@
+
+This is the first round of institutional investment in a startup. Series A funding is typically used to scale the business, for example, by hiring additional personnel and expanding the product offerings.
