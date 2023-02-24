@@ -1,0 +1,4 @@
+
+Vesting refers to the process by which an employee gains ownership of their employer-provided stock options or other equity-based incentives over time. In other words, vesting is the process of earning the right to exercise or sell shares of a company's stock that have been granted as part of an employee's compensation package.
+
+Typically, vesting occurs over a period of several years, with a certain percentage of the total grant becoming vested at regular intervals (e.g., quarterly or annually) as long as the employee remains with the company. For example, an employee may be granted 1,000 stock options with a four-year vesting schedule and a one-year cliff, meaning that after one year of employment, the employee will have the right to exercise 25% (or 250) of the options, and the remaining 75% will vest gradually over the next three years.
