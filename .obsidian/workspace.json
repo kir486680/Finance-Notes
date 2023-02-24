@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investment Stages.md",
+                "file": "Funding Rounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEVERAGE.md",
+                "file": "Leverage.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,9 +222,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "370ef11261f34bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Customer Acquisition Cost (CAC).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34f9589593815d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burn Rate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "835e533e8afda03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Cost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c31a170af610aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burn Multiple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dc4392f208c62f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burn Multiple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d7882e4d3963e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Customer Lifetime Value (LTV).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -290,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gross Merchandise Value (GMV).md",
+                "file": "Customer Lifetime Value (LTV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gross Merchandise Value (GMV).md",
+                "file": "Customer Lifetime Value (LTV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gross Merchandise Value (GMV).md"
+                "file": "Customer Lifetime Value (LTV).md"
               }
             }
           }
@@ -351,17 +423,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f80749c7485a8213",
+  "active": "97d7882e4d3963e2",
   "lastOpenFiles": [
-    "Customer to Customer (C2C).md",
-    "Gross Merchandise Value (GMV).md",
-    "Cliff.md",
-    "Vesting.md",
+    "Burn Multiple.md",
+    "Funding Rounds.md",
+    "Ratios.md",
+    "Customer Lifetime Value (LTV).md",
+    "Burn Rate.md",
     "Pitch Deck.md",
-    "LEVERAGE.md",
-    "Monthly Recurring Revenue (MRR).md",
-    "Annual Reccuring Revenue(ARR).md",
-    "Average Revenue Per User (ARPU).md",
-    "Operating Expenditure (OpEx).md"
+    "PPE.md",
+    "Runway.md",
+    "Seed Round.md",
+    "Series B.md"
   ]
 }
