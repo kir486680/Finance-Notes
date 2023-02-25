@@ -1,5 +1,5 @@
 
-Operating Expenditure (OpEx) refers to the expenses that a company incurs in the day-to-day operations of its business. These expenses are incurred to generate revenue and are necessary for the company to continue its normal business operations. OpEx is typically contrasted with Capital Expenditures (CapEx), which are expenses incurred to acquire or upgrade long-term assets such as property, plant, and equipment.
+Operating Expenditure (OpEx) refers to the expenses that a company incurs in the day-to-day operations of its business. These expenses are incurred to generate revenue and are necessary for the company to continue its normal business operations. OpEx is typically contrasted with [[Capital Expenditure (CapEx)]], which are expenses incurred to acquire or upgrade long-term assets such as property, plant, and equipment.
 
 Examples of OpEx include:
 

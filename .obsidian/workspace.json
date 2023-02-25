@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customer Lifetime Value (LTV).md",
+                "file": "Customer Acquisition Cost (CAC).md",
                 "mode": "source",
                 "source": false
               }
@@ -362,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Customer Lifetime Value (LTV).md",
+                "file": "Customer Acquisition Cost (CAC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Customer Lifetime Value (LTV).md",
+                "file": "Customer Acquisition Cost (CAC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -402,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Customer Lifetime Value (LTV).md"
+                "file": "Customer Acquisition Cost (CAC).md"
               }
             }
           }
@@ -425,15 +425,15 @@
   },
   "active": "97d7882e4d3963e2",
   "lastOpenFiles": [
+    "Capital Expenditure (CapEx).md",
+    "Operating Expenditure (OpEx).md",
     "Burn Multiple.md",
+    "Burn Rate.md",
+    "Customer Lifetime Value (LTV).md",
     "Funding Rounds.md",
     "Ratios.md",
-    "Customer Lifetime Value (LTV).md",
-    "Burn Rate.md",
     "Pitch Deck.md",
     "PPE.md",
-    "Runway.md",
-    "Seed Round.md",
-    "Series B.md"
+    "Runway.md"
   ]
 }

@@ -8,7 +8,7 @@ Here are some examples of how to use this formula to calculate LTV:
 
 1.  E-commerce company: An online clothing store has an average order value of $50. On average, customers make four purchases per year and remain customers for two years.
 
-CLV = ($50 x 4 x 2) = $400
+LTV = ($50 x 4 x 2) = $400
 
 So the CLV for this online clothing store is $400 per customer.
 
